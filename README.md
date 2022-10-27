@@ -3,8 +3,8 @@ WeRateDogs is a Twitter account that rates people's dogs with a humorous comment
 
 ### Research Questions
 
-The questions posed in this analysis were the following:\n
-1. which dog stage is most common?\n
-2. What are the top five dog names with the highest favourite count?\n
+The questions posed in this analysis were the following:
+1. which dog stage is most common?
+2. What are the top five dog names with the highest favourite count?
 3. Which year has the most Twitter retweets?
   
